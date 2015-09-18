@@ -1,6 +1,6 @@
 # _Simple layout website_
 
-##### _Goal: to create a simple 2 column layout webpage_
+##### _Goal: to create a simple 2 column layout webpage as described [here](https://www.learnhowtoprogram.com/lessons/layout-test-code-review)_
 
 #### By _**Garrett Carver**_
 
