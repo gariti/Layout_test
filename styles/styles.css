@@ -1,36 +1,40 @@
+/*****TOP*****/
 body {
   background-color: #a8a09a;
 }
 
 header {
   background-color: #dddddd;
-  margin: 0px 15px;
-  width: 100%;
 }
 
 header h1 {
   padding: 0px 15px;
-  height: 20px;
 }
 
 nav ul{
   background-color: #cc9998;
+  margin: 0;
+  padding: 10px 15px;
 }
 
 nav ul li {
   display: inline;
-  margin: 0px 15px;
 }
 
+
+/*****MAIN BODY*****/
 .column1 {
   float: left;
+  width: 76%;
   background-color: #9acc99;
-  padding: 15px;
+  padding: 1% 2%;
 }
 
+
+/*****RIGHT SIDEBAR*****/
 .column2 {
   float: right;
+  width: 16%;
   background-color: #9999cd;
-  max-width: 350px;
-  padding: 15px;
+  padding: 2%;
 }
