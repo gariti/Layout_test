@@ -1,12 +1,12 @@
 # _Simple layout website_
 
-##### _Goal: to create a simple 2 column layout webpage as described [here](https://www.learnhowtoprogram.com/lessons/layout-test-code-review)_
+##### _Goal: to create a simple 2 column layout webpage as in the [assignment](https://www.learnhowtoprogram.com/lessons/layout-test-code-review)._
 
 #### By _**Garrett Carver**_
 
 ## Setup
 
-1. Open Index.html in your web browser (Or log into GitHub Pages link: http://gariti.github.io/layout_test)
+1. Open by clicking [here](https://gariti.github.io/Layout_test)
 
 ### Legal
 
